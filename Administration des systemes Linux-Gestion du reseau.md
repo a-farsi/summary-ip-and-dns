@@ -95,7 +95,7 @@ Domain Name System (DNS) permet de convertir les noms de domaine en adresses IP.
 La figure ci dessous montre le chemin standard d'une requête DNS: 
 
  <p align="center">
-<img src="figures/dns.png" width=65%>
+<img src="figures/dns.png" width=90%>
 </p>
 <p align="center">
 chemin d'une requête DNS
@@ -216,4 +216,3 @@ Il est possible de modifier définitivement le nom d'hôte à l'aide de la comma
 ```
 sudo hostnamectl set-hostname <nouveau_nom> 
 ```
-## Routage
