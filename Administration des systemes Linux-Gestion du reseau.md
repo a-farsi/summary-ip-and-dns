@@ -95,7 +95,7 @@ Domain Name System (DNS) permet de convertir les noms de domaine en adresses IP.
 La figure ci dessous montre le chemin standard d'une requête DNS: 
 
  <p align="center">
-<img src="figures/dns.png" width=90%>
+<img src="figures/dns.png" width=100%>
 </p>
 <p align="center">
 chemin d'une requête DNS
